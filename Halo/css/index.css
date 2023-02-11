@@ -1,0 +1,49 @@
+/** Overrides ************************************************** */
+
+body {
+    height: 100vh;
+}
+
+nav {
+    background-color: #00000000 !important;
+    box-shadow: none;
+}
+
+/** The rest of it ********************************************** */
+
+.back-video {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    object-fit: cover;
+    z-index: -1;
+}
+
+.nav-wrapper {
+    background: linear-gradient(#000000aa, #00000000);
+}
+
+.title {
+    font-family: 'Permanent Marker';
+    color: white;
+}
+
+.text-black {
+    color: black;
+}
+
+.text-white {
+    color: white;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.img-background {
+    position: absolute;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+}

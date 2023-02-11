@@ -1,0 +1,70 @@
+/* dimen ******************************************** */
+
+.p-1 {
+    padding: 1rem !important;
+}
+
+.pl-1 {
+    padding-left: 1rem !important;
+}
+
+.pr-1 {
+    padding-right: 1rem !important;
+}
+
+.pt-1 {
+    padding-top: 1rem !important;
+}
+
+.pb-1 {
+    padding-bottom: 1rem !important;
+}
+
+.mt-2 {
+    margin-top: 2rem !important;
+}
+
+.h-90p {
+    height: 90%;
+}
+
+.w-100 {
+    width: 100%;;
+}
+
+/** ************************************************************ */
+
+.d-flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+/** ************************************************************ */
+
+.text-center {
+    text-align: center;
+}
+
+.text-white {
+    color: white;
+}
+
+/** comms *************************************************** */
+
+.my-title {
+    font-family: 'Permanent Marker';
+}
+
+/* materialize overrides **************************************************** */
